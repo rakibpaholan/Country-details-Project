@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">List View Project_2</string>
+    <string name="data_here">Data here</string>
+
+
+    <string-array name="country_information">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Paksthan</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Meyanmar</item>
+        <item>Kashmir</item>
+        <item>Afgansthan</item>
+        <item>Iraq</item>
+        <item>Iran</item>
+        <item>Algeria</item>
+        <item>Kajasthan</item>
+        <item>Seria</item>
+        <item>Poland</item>
+        <item>Germany</item>
+        <item>France</item>
+
+    </string-array>
+
+
+    <string name="afganisthan">
+
+
+
+        Afghanistan (/æfˈɡænɪstæn, æfˈɡɑːnɪstɑːn/ (About this soundlisten), also pronounced /ævˈɡænᵻstæn, ævˈɡɑːnᵻstɑːn/;[12]
+        Pashto/Dari: افغانستان, Pashto: Afġānistān [avɣɒnisˈtɒn, ab-],[a] Dari: Afġānestān [avɣɒnesˈtɒn]), officially the Islamic Republic of Afghanistan,
+        is a landlocked country at the crossroads of Central and South Asia. Afghanistan is bordered by Pakistan to the east and south; Iran to the west;
+        Turkmenistan, Uzbekistan, and Tajikistan to the north; and China to the northeast. Occupying 652,000 square kilometers (252,000 sq mi), it is a
+        mountainous country with plains in the north and southwest. Kabul is the capital and largest city.
+        The population is around 32 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks.
+
+
+        Afghanistan (/æfˈɡænɪstæn, æfˈɡɑːnɪstɑːn/ (About this soundlisten), also pronounced /ævˈɡænᵻstæn, ævˈɡɑːnᵻstɑːn/;[12]
+        Pashto/Dari: افغانستان, Pashto: Afġānistān [avɣɒnisˈtɒn, ab-],[a] Dari: Afġānestān [avɣɒnesˈtɒn]), officially the Islamic Republic of Afghanistan,
+        is a landlocked country at the crossroads of Central and South Asia. Afghanistan is bordered by Pakistan to the east and south; Iran to the west;
+        Turkmenistan, Uzbekistan, and Tajikistan to the north; and China to the northeast. Occupying 652,000 square kilometers (252,000 sq mi), it is a
+        mountainous country with plains in the north and southwest. Kabul is the capital and largest city.
+        The population is around 32 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks.
+
+
+
+        Afghanistan (/æfˈɡænɪstæn, æfˈɡɑːnɪstɑːn/ (About this soundlisten), also pronounced /ævˈɡænᵻstæn, ævˈɡɑːnᵻstɑːn/;[12]
+        Pashto/Dari: افغانستان, Pashto: Afġānistān [avɣɒnisˈtɒn, ab-],[a] Dari: Afġānestān [avɣɒnesˈtɒn]), officially the Islamic Republic of Afghanistan,
+        is a landlocked country at the crossroads of Central and South Asia. Afghanistan is bordered by Pakistan to the east and south; Iran to the west;
+        Turkmenistan, Uzbekistan, and Tajikistan to the north; and China to the northeast. Occupying 652,000 square kilometers (252,000 sq mi), it is a
+        mountainous country with plains in the north and southwest. Kabul is the capital and largest city.
+        The population is around 32 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks.
+
+
+
+
+
+
+    </string>
+</resources>
